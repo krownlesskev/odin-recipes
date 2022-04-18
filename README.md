@@ -1,4 +1,4 @@
-#RECIPE PROJECT
+# RECIPE PROJECT
 
 ## Part of the odin project curriculum
 
